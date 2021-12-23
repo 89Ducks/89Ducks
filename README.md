@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @89Ducks
+- 👀 I’m interested in Learning Lua coding and using inspect element to modify websites with my own coding
+- 🌱 I’m currently learning Lua
+- 📫 How to reach me: da89ducks@gmail.com
