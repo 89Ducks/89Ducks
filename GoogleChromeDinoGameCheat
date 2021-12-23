@@ -1,0 +1,1 @@
+Runner.instance_.gameOver = () => Runner.instance_.setSpeed(Runner.instance_.currentSpeed += 10)
